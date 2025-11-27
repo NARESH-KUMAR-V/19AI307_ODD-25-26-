@@ -58,8 +58,8 @@ Print "Access Denied".
  ```
 /*
 Program to implement a conditional statement using Java
-Developed by: ALLEN JOVETH P
-RegisterNumber:  212223240007
+Developed by: Naresh Kumar V
+RegisterNumber:  212223040126
 */
 ```
 
@@ -98,6 +98,7 @@ public class Pirate{
 
 ## RESULT:
 Thus, the program to implement conditional statements in Java was executed successfully.
+
 
 
 
